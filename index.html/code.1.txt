@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abhiram Agencies</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Abhiram Agencies</h1>
+    <p>Wholesale Cool Drinks Supplier</p>
+</header>
+
+<section class="info">
+    <h2>Business Details</h2>
+    <p><strong>Owner:</strong> B. Adinarayana</p>
+    <p><strong>Phone:</strong> <a href="tel:9848873231">9848873231</a></p>
+    <p><strong>Address:</strong> Opposite Kalamandhir, Addanki, Andhra Pradesh</p>
+</section>
+
+<section class="gallery">
+    <h2>Our Shop</h2>
+    <div class="images">
+        <img src="images/shop1.jpg" alt="Shop Image 1">
+        <img src="images/shop2.jpg" alt="Shop Image 2">
+        <img src="images/shop3.jpg" alt="Shop Image 3">
+        <img src="images/shop4.jpg" alt="Shop Image 4">
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Abhiram Agencies</p>
+</footer>
+
+</body>
+</html>
